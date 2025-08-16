@@ -56,20 +56,23 @@
 13. Создайте папку на диске С с любым названием на АНГЛИСКОМ языке.
 14. Укажите эту папку как основную для создания проектов в VS code
 
-###🔹 Arduino
+### 🔹 Arduino
 [Скачать IDE](https://www.arduino.cc/en/software/) |
 [Драйвер CH340](https://wiki.amperka.ru/_media/articles:driver-ch340:ch340ser-windows.zip)
 
-###🔹 Microsoft Office
+### 🔹 Microsoft Office
 [Microsoft Office](https://cloud.mail.ru/public/zMaw/2ERQnvgHM)
 
-## Отчеты
-Отчеты пишутся в LaTeX. Обычно используем[Overleaf](https://ru.overleaf.com/)
+## 📊 Отчеты
+### LaTeX редакторы
+Рекомендуем [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
 
 > [!CAUTION]
-> Пример отчета не редактируем. Открыли, посмотрели, скопировали, закрыли. НИЧЕГО НЕ УДАЛЯЕМ
+> Примеры отчетов только для ознакомления.
+> Не редактируйте исходные файлы!
 
-Пример отчета в LaTeX - [тык](https://www.overleaf.com/8434914313vfywjqctbsks#9d8da1)
+📄 [Пример отчета](https://www.overleaf.com/8434914313vfywjqctbsks#9d8da1)
 
 #### Схемы алгоритмов 
-Проще всего создавать в [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6), [ссылка на загрузку Win64](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
+Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | 
+[Декстопная версия Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
