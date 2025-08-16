@@ -63,6 +63,8 @@
 ### 🔹 Microsoft Office
 [Microsoft Office](https://cloud.mail.ru/public/zMaw/2ERQnvgHM)
 
+---
+
 ## 📊 Отчеты
 ### LaTeX редакторы
 Рекомендуем [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
