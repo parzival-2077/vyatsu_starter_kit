@@ -14,5 +14,5 @@
 И как без него 
 <img width="1086" height="1255" alt="image" src="https://github.com/user-attachments/assets/d7a05833-5a2a-4faa-b1c0-2403333f55ea" />
 
-Пример конспекта - 
+Пример конспекта - [тык](/18.03.2025.pdf)
 
