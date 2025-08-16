@@ -24,3 +24,23 @@
 
 Pascal(ссылка на установщик) - [тык](https://pascalabc.net/downloads/PascalABCNETSetup.exe)
 
+Lazarus(официальный сайт с сcылками на SourceForge)- [тык](https://www.lazarus-ide.org/index.php?page=downloads), [ссылка на установщик Win64](https://sourceforge.net/projects/lazarus/files/Lazarus%20Windows%2064%20bits/Lazarus%204.2/lazarus-4.2-fpc-3.2.2-win64.exe/download)
+
+C - Вот тут уже начинаются проблемы, поэтому небольшой гайд.
+1. Скачиваем Visual Studio Code - [тык](https://code.visualstudio.com/)
+2. Скачиваем установщик компилятора для C [прямая ссылка](https://github.com/msys2/msys2-installer/releases/download/2024-12-08/msys2-x86_64-20241208.exe)
+3. Запускаем установщик. Соглащаемся со всем, что есть
+4. После установки нажимаем Run MSYS2 now
+5. Появится командная строка. В ней пишем(именно пишем, скопировать не получится) - `pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain`
+6. Появится вот такая штука. Нажимаем enter <img width="1071" height="362" alt="image" src="https://github.com/user-attachments/assets/61a6896d-6fe6-400b-b69b-3a5f899ede29" />
+7. Подтвержаем выбор Y(Yes)
+8. Ждем
+9. Запускаем VS Code
+10. Выберите значок «Расширения» на панели активности или используйте сочетание клавиш ( Ctrl+Shift+X ).
+11. Ищем 'C' от Microsoft.
+12. Выберите Установить
+13. 
+
+
+
+
