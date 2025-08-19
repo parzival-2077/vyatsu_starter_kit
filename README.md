@@ -75,6 +75,6 @@
 
 📄 [Пример отчета](https://www.overleaf.com/8434914313vfywjqctbsks#9d8da1)
 
-#### Схемы алгоритмов 
+### Схемы алгоритмов 
 Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | 
 [Декстопная версия Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
