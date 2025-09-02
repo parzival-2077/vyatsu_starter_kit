@@ -70,14 +70,14 @@
 14. Создайте папку на диске С с любым названием на АНГЛИЙСКОМ языке
 15. Укажите эту папку как основную для создания проектов в VS code
 
-### 🔹 Arduino
-[Скачать Arduino IDE](https://www.arduino.cc/en/software/) |
-[Драйвер CH340](https://wiki.amperka.ru/_media/articles:driver-ch340:ch340ser-windows.zip) | [VSCode + PlatformIO IDE](https://platformio.org/platformio-ide) + [Расширение Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
-
 ### 🔹 Microsoft Office
 [Microsoft Office](https://cloud.mail.ru/public/zMaw/2ERQnvgHM) | [ONLYOFFICE](https://www.onlyoffice.com/download-desktop.aspx) | [Google Docs](https://docs.google.com/) (онлайн)
 
-### 🔹 Logisim-evolution (Информатика 2 семестр)
+### 🔹 Arduino (Информатика 2 семестр)
+[Скачать Arduino IDE](https://www.arduino.cc/en/software/) |
+[Драйвер CH340](https://wiki.amperka.ru/_media/articles:driver-ch340:ch340ser-windows.zip) | [VSCode + PlatformIO IDE](https://platformio.org/platformio-ide) + [Расширение Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
+
+### 🔹 Logisim-evolution
 [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-x86_64.msi) (Построение и симуляция логических схем)
 
 ## 📊 Отчеты
