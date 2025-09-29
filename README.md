@@ -83,7 +83,7 @@
 ## 📊 Отчеты
 ### LaTeX редакторы
 - Рекомендуем [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
-- [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн)
+- [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн) <- Вы даже не представляете как это удобно
 - [TeXstudio](https://www.texstudio.org/) (оффлайн)
 - [MiKTeX](https://miktex.org/download) (оффлайн)
 
