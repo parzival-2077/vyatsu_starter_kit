@@ -6,8 +6,9 @@
 
 - [📝 Конспекты](#-конспекты)
 - [💻 Программы](#-программы)
+- [📖 Ваша Библия на 4 года]()
 - [📊 Отчеты](#-отчеты)
-- [📄 Пример отчета](#-пример-отчета)
+- [📄 Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
 
 ---
 
@@ -141,15 +142,17 @@
 
 ### LaTeX редакторы
 
-- Рекомендуем [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
-- [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн) <- Вы даже не представляете как это удобно
+- [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
+- [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн)
 - [TeXstudio](https://www.texstudio.org/) (оффлайн)
 - [MiKTeX](https://miktex.org/download) (оффлайн)
 
-### 📄 [Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
+📄 [Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
 
 ### Схемы алгоритмов
 
 Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | [Декстопная версия для Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
 
+[Пример оформления схемы алгоритма используя drawio](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/prototype.drawio)
 
+Скачайте файл
