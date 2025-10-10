@@ -6,7 +6,7 @@
 
 - [📝 Конспекты](#-конспекты)
 - [💻 Программы](#-программы)
-- [📖 Ваша Библия на 4 года]()
+- [📖 Учебное пособие по схемам (ГОСТы и Ваша Библия на 4 года)](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/%D0%94%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%D0%B0%2C_%D0%A7%D0%B8%D1%81%D1%82%D1%8F%D0%BA%D0%BE%D0%B2_%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 - [📊 Отчеты](#-отчеты)
 - [📄 Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
 
@@ -86,7 +86,7 @@
     #include <stdio.h>
 
     int main(){
-      printf("У вас все получилось! Позравляю!");
+      printf("У вас все получилось! Поздравляю!");
       return 0;
     }
     ```
@@ -153,6 +153,6 @@
 
 Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | [Декстопная версия для Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
 
-[Пример оформления схемы алгоритма используя drawio](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/prototype.drawio)
+Скачайте файл нажав `Ctrl+Shift+S`: [Пример схемы алгоритма в drawio](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/prototype.drawio)
 
-Скачайте файл
+Откройте его используя drawio
