@@ -274,13 +274,16 @@ VSCode имеет встроенную интеграцию с Git через п
 
 1. Откройте папку проекта в VSCode
 2. Нажмите на иконку Source Control (ветка) в боковой панели
-![source control tab](pics/source_control_tab.png)
+
+<img width="330" src="pics/source_control_tab.png">
 
 3. Опубликуйте репозиторий проекта сразу на GitHub
-![publish to github](pics/publish_to_github.png)
+
+<img width="330" src="pics/publish_to_github.png">
 
 4. Назовите репозиторий и опубликуйте его как приватный (доступ только по приглашению) или публичный (доступен всем)
-![name and publish](pics/name_and_publish.png)
+
+<img width="750" src="pics/name_and_publish.png">
 
 5. Здесь вы можете:
    - Видеть измененные файлы
