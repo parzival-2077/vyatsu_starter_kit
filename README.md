@@ -152,7 +152,7 @@
 
 ### Схемы алгоритмов
 
-Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | [Декстопная версия для Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
+Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/latest)
 
 Скачайте файл нажав `Ctrl+Shift+S`: [Пример схемы алгоритма в drawio](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/prototype.drawio)
 
