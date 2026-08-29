@@ -146,8 +146,7 @@
 
 - [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
 - [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн)
-- [TeXstudio](https://www.texstudio.org/) (оффлайн)
-- [MiKTeX](https://miktex.org/download) (оффлайн)
+- [TeXstudio](https://www.texstudio.org/) + [MiKTeX](https://miktex.org/download) (оффлайн)
 
 📄 [Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
 
@@ -161,10 +160,12 @@
 
 ## 💾 Github
 
-Рассмотрим 2 способа для создания/обновления репозитория:
+Рассмотрим способы для создания/обновления репозитория:
 
 1. [Через сайт](#-через-сайт)
 2. [Через командную строку](#-через-командную-строку)
+3. Через Visual Studio Code
+4. Через GitHub Desktop
 
 ### Через сайт
 
