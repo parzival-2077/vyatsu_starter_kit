@@ -1,0 +1,107 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;\" value=\"&amp;lt;font face=&amp;quot;Helvetica&amp;quot; style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Начало&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Символ начала программы"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;arcSize=50;\" value=\"&amp;lt;font face=&amp;quot;Helvetica&amp;quot; style=&amp;quot;font-size: 12px;&amp;quot;&amp;gt;Конец&amp;lt;/font&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Символ конца программы"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;\" value=\"Ввод&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;div&amp;gt;A&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Символ ввода"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;\" value=\"Вывод&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;div&amp;gt;B&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Символ вывода"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;\" value=\"&amp;lt;div&amp;gt;i=0&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30\" width=\"120\" x=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 30,
+    "aspect": "fixed",
+    "title": "Операторный блок"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;\" value=\"abc = G + Y\" vertex=\"1\"&gt;&lt;mxGeometry height=\"50\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 50,
+    "aspect": "fixed",
+    "title": "Операторный блок"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=loopLimit;whiteSpace=wrap;html=1;size=20;\" value=\"&amp;lt;div&amp;gt;Запись масива&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;i &amp;amp;gt;= count&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"70\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "Начало цикла"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"shape=loopLimit;whiteSpace=wrap;html=1;size=20;direction=west;\" value=\"&amp;lt;div&amp;gt;&amp;lt;div&amp;gt;Запись масива&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;br&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"70\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "Конец цикла"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rhombus;whiteSpace=wrap;html=1;\" value=\"Q[i] = 0&amp;amp;nbsp;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"80\" width=\"120\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 120,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Условный оператор"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=0;whiteSpace=wrap;html=1;\" value=\"&amp;lt;div&amp;gt;i++&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"30.5\" width=\"120\" y=\"15.75\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" parent=\"1\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=east;\" value=\"a++&amp;amp;nbsp;&amp;lt;span style=&amp;quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&amp;quot;&amp;gt;-&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&amp;quot;&amp;gt;тоже, что&amp;lt;/span&amp;gt;&amp;lt;div style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;a=a+1&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"62\" width=\"50\" x=\"135\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" edge=\"1\" parent=\"1\" source=\"2\" style=\"rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;\" target=\"3\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 185,
+    "h": 62.00000000000008,
+    "aspect": "fixed",
+    "title": "Операторный блок инкремента с комментарием"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=east;\" value=\"&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;a%b - остаток&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;div style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;div&amp;gt;от деления числа&amp;amp;nbsp;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;а на число b&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"58\" width=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 58,
+    "aspect": "fixed",
+    "title": "Остаток от деления"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;direction=west;\" value=\"&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;a div b - целая&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;часть&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;от деления&amp;amp;nbsp;&amp;lt;/span&amp;gt;&amp;lt;div style=&amp;quot;&amp;quot;&amp;gt;&amp;lt;div&amp;gt;числа&amp;amp;nbsp;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;а на число b&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"56\" width=\"50\" x=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 56.00000000000001,
+    "aspect": "fixed",
+    "title": "Целочисленное деление"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;direction=west;\" value=\"&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&amp;quot;&amp;gt;\\n - перенос&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;на&amp;amp;nbsp;&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&amp;quot;&amp;gt;следующую&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&amp;quot;&amp;gt;&amp;amp;nbsp;строку&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"60\" width=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Перенос строки"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=right;pointerEvents=1;direction=west;\" value=\"&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;a+=10-тоже,&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;&amp;lt;span style=&amp;quot;background-color: initial;&amp;quot;&amp;gt;&amp;amp;nbsp;что а=a+10&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;\" vertex=\"1\"&gt;&lt;mxGeometry height=\"54.25\" width=\"50\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 50,
+    "h": 54.25,
+    "aspect": "fixed",
+    "title": "Прибавление переменной"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"ellipse;whiteSpace=wrap;html=1;aspect=fixed;\" value=\"A\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"40\" x=\"2.2737367544323206e-13\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 40,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Сивол соединитель"
+  }
+]</mxlibrary>
