@@ -57,7 +57,7 @@
 2. Скачиваем установщик [компилятора MSYS2](https://github.com/msys2/msys2-installer/releases/download/2024-12-08/msys2-x86_64-20241208.exe)
 3. Запускаем установщик. Соглашаемся со всем, что есть
 4. После установки прожимаем галочку "Run MSYS2 now" и завершаем установку.
-5. Появится командная строка. В ней пишем(именно пишем, скопировать не получится) - `pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain`
+5. Появится командная строка. В ней ПКМ и «Paste» для вставки или по старинке переписать: `pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain`
 6. Появится вот такая штука. Нажимаем enter <img width="1071" height="362" alt="image" src="https://github.com/user-attachments/assets/61a6896d-6fe6-400b-b69b-3a5f899ede29" />
 7. Подтвержаем выбор Y(Yes)
 8. Ждем
@@ -97,7 +97,8 @@
 0. Можно использовать Pascal ABC и не париться :)
 1. Скачиваем [Visual Studio Code](https://code.visualstudio.com/), если до этого не устанавливали
 2. Скачиваем установщик [компилятора Free Pascal](https://sourceforge.net/projects/freepascal/files/Win32/3.2.2/fpc-3.2.2.win32.and.win64.exe/download)
-3. Запускаем и соглашаемся со всем, что есть
+3. Запускаем и соглашаемся со всем, что есть.<br>
+   (Или уберите галочки «GNU Make», «GNU Debugger», «GNU linker and assembler», если у вас есть gcc для C/C++)
 4. По умолчанию **FPC** установится в `C:\FPC\3.2.2\`
 5. Добавьте путь **FPC** в `Path`
     - Откройте *Панель управления -> Система -> Дополнительные параметры -> Переменные среды* или введите в поиске *Переменные среды*
@@ -113,7 +114,7 @@
 
     Всё установилось если после ввода комманды выше вы получили такой вывод:
     ![alt text](pics/fpc-check.jpg)
-6. **ВАЖНО!** после установки **FPC** удалить: `C:\FPC\3.2.2\bin\i386-win32\gcc.exe`, иначе у вас поломается gcc для C/C++
+6. **ВАЖНО!** после установки **FPC** удалить: `C:\FPC\3.2.2\bin\i386-win32\gcc.exe`, иначе у вас поломается gcc для C/C++ (см. пункт 3)
 7. Выберите значок «Расширения» на панели активности или используйте сочетание клавиш ( Ctrl+Shift+X )
 8. Установите расширения `Code Runner` (если не установленно), `Pascal` и `Pascal Formatter`
 9. Для проверки создайте новую папку и откройте ее в VSCode
@@ -132,7 +133,7 @@
 
 ### 🔹 Arduino (Информатика 2 семестр)
 
-[Скачать Arduino IDE](https://www.arduino.cc/en/software/) |
+[Arduino IDE (github)](https://github.com/arduino/arduino-ide/releases) | [Скачать Arduino IDE](https://www.arduino.cc/en/software/) |
 [Драйвер CH340](https://wiki.amperka.ru/_media/articles:driver-ch340:ch340ser-windows.zip) | [VSCode + PlatformIO IDE](https://platformio.org/platformio-ide) + [Расширение Serial Monitor](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-serial-monitor)
 
 ### 🔹 Logisim-evolution
@@ -145,14 +146,13 @@
 
 - [Overleaf](https://ru.overleaf.com/) (онлайн-редактор)
 - [LaTeX в VSCode + LaTeX Workshop](/VSCodeTeX.md) (оффлайн)
-- [TeXstudio](https://www.texstudio.org/) (оффлайн)
-- [MiKTeX](https://miktex.org/download) (оффлайн)
+- [TeXstudio](https://www.texstudio.org/) + [MiKTeX](https://miktex.org/download) (оффлайн)
 
 📄 [Пример отчета](https://www.overleaf.com/read/rdxftkqzmmyj#113ac4)
 
 ### Схемы алгоритмов
 
-Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/tag/v28.0.6) | [Декстопная версия для Windows](https://github.com/jgraph/drawio-desktop/releases/download/v28.0.6/draw.io-28.0.6-windows-installer.exe)
+Используйте [draw.io](https://github.com/jgraph/drawio-desktop/releases/latest)
 
 Скачайте файл нажав `Ctrl+Shift+S`: [Пример схемы алгоритма в drawio](https://github.com/parzival-2077/vyatsu_starter_kit/blob/main/stuff/prototype.drawio)
 
@@ -169,10 +169,12 @@
 
 ## 💾 Github
 
-Рассмотрим 2 способа для создания/обновления репозитория:
+Рассмотрим способы для создания/обновления репозитория:
 
 1. [Через сайт](#-через-сайт)
 2. [Через командную строку](#-через-командную-строку)
+3. Через Visual Studio Code
+4. Через GitHub Desktop
 
 ### Через сайт
 
@@ -276,6 +278,7 @@
 Если командная строка кажется сложной, попробуйте эти удобные инструменты:
 
 - **LazyGit** - удобный интерфейс для Git в терминале (полезная вещь для изучения)
+- **GitHub Desktop** - просто отдельно приложение 
 
 #### 🔹 Source Control в VSCode
 
